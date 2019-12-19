@@ -1,0 +1,51 @@
+{
+    "name": "AirPair",
+    "description": "<p>AirPair is an extensive network of experts with deep knowledge across many technology stacks and solutions. AirPair accelerates software development by &ldquo;pairing&rdquo; experts with engineers in real-&shy;time via video and screen sharing - leading to better software, produced faster, and at lower costs.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/airpair-logo.png",
+    "tags": [
+        "api provider",
+        "api talent",
+        "freelancing",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/airpair\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AirPair",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/airpair-logo.png",
+            "humanURL": "http:\/\/www.airpair.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airpair-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/airpair-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/airpair"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/airpair"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.airpair.com\/"
+        }
+    ]
+}
